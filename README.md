@@ -16,7 +16,7 @@
 
 # 💻 Languages and Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robolvhez&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robolvhez&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
