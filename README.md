@@ -1,5 +1,7 @@
 ### Hey everybody! 👋 | It's me, Roberto Olvera-Hernandez
 
+![](banner.png)
+
 # ⚡ Rapid fire
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning: BASH Pipelines | NextFlow (Azure/AWS) workflows | ShinyApps & DataBases
