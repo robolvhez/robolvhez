@@ -23,7 +23,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=catppuccin_mocha)
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robolvhez&show_icons=true&theme=catppuccin_mocha)
 
 **Software**
 
