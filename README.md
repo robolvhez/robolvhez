@@ -23,7 +23,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robolvhez&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robolvhez&hide_progress=false&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 **Software**
 
