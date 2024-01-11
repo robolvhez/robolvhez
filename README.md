@@ -2,12 +2,14 @@
 
 ![](banner.png)
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rob-olvhez/)
+
 # ⚡ Rapid fire
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning: BASH Pipelines | NextFlow (Azure/AWS) workflows | ShinyApps & DataBases
 - 👯 I’m looking to collaborate on "omics" projects
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about 
+<!-- - 💬 Ask me about -->
 - 📫 How to reach me: roberto.olvhez@gmail.com | **LinkedIn** rob-olvhez
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
