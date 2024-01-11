@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: BASH Pipelines | NextFlow (Azure/AWS) workflows | ShinyApps & DataBases
 - 👯 I’m looking to collaborate on "omics" projects
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about -->
+- 💬 Ask me about anything biologically related! I have a biotech background; molecular biology and metabolism is my jam 🧬 
 - 📫 How to reach me: roberto.olvhez@gmail.com | **LinkedIn** rob-olvhez
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
