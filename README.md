@@ -15,7 +15,8 @@
 <!-- - ⚡ Fun fact: ... -->
 
 # 💻 Languages and Skills
-## Languages
+
+**Languages**
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -24,13 +25,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robolvhez&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Software
+**Software**
+
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-# Operating Systems (other than Windows)
+**Operating Systems (other than Windows)**
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-## Other
+**Other**
+
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
