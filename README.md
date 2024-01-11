@@ -8,8 +8,8 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning: BASH Pipelines | NextFlow (Azure/AWS) workflows | ShinyApps & DataBases
 - 👯 I’m looking to collaborate on "omics" projects
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything biologically related! I have a biotech background; molecular biology and metabolism is my jam 🧬 
+- 🤔 I’m looking for help with: Sofware engineering (`C`,`C++`)
+- 💬 Ask me about: **Anything** related to Biology! 🧬 I have a biotech background; molecular biology and metabolism are my jam 
 - 📫 How to reach me: roberto.olvhez@gmail.com | **LinkedIn** rob-olvhez
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
