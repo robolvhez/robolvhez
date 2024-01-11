@@ -25,7 +25,7 @@
 
 <!-- ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robolvhez&show_icons=true&theme=catppuccin_mocha) -->
 
-**Databases & Hostings**
+**Hostings**
 
 <!--
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
